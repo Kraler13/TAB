@@ -17,14 +17,10 @@ public class SquadLogic : MonoBehaviour
     public List<GameObject> ListOfSpowningPoints;
     public List<GameObject> ListOfSpowningPointsToChange;
     public float SquadSpeed = 10f;
-    public bool IsCaptureingAPoint = false;
-    public bool IsConnetedToAPoint = false;
-    public bool CapturedAPoint = false;
     public bool IsAttacking = false;
     public bool InRangeAttack = false;
     public ResorsSriptableObj resorsSriptableObj;
     private NavMeshAgent navMeshAgent;
-    public ObjectivePointLogic objective;
     public GameObject enemy;
     public List<GameObject> ListOfEnemys;
 
@@ -39,7 +35,6 @@ public class SquadLogic : MonoBehaviour
     }
     private void Update()
     {
-        pointCuptering();
         if (ListOfEnemys.Count != 0 && enemy == null)
         {
             enemy = ListOfEnemys[0];
@@ -58,14 +53,7 @@ public class SquadLogic : MonoBehaviour
         Vector3 direction = destination - transform.position;
         navMeshAgent.SetDestination(destination);
     }
-
-    private void pointCuptering()
-    {
-        if (IsCaptureingAPoint && !CapturedAPoint && IsConnetedToAPoint && objective != null)
-        {
-            objective.PercentOfCapture += 2;
-        }
-    }
+    
     private IEnumerator Attack()
     {
         Debug.Log("atack2");

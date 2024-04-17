@@ -6,12 +6,9 @@ using UnityEngine.UI;
 
 public class HUDMenager : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
+    [SerializeField] private GameObject selection;
     public GameObject OneRowButtons;
     public GameObject TwoRowButtons;
-
-    [SerializeField] private List<GameObject> heroObj;
-    [SerializeField] private InputMenager InputMenager;
-    [SerializeField] private SelectObj SelectObj;
     private GameObject k;
     private bool isOverHUD;
     void Start()
@@ -23,14 +20,12 @@ public class HUDMenager : MonoBehaviour, IPointerEnterHandler, IPointerExitHandl
     {
         if (k != null)
         {
-            InputMenager.enabled = false;
-            SelectObj.enabled = false;
+            selection.SetActive(false);
             isOverHUD = true;
         }
         else if (k == null && isOverHUD)
         {
-            InputMenager.enabled = true;
-            SelectObj.enabled = true;
+            selection.SetActive(true);
             isOverHUD = false;
         }
     }
