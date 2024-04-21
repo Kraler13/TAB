@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f542d9f0-99ec-4b70-9674-558d6eda1270}">
+		<property name="assetPath">
+			<value>Prepare! - Vikings are coming!.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{61e20ec3-01ce-447a-8535-8eda56ade035}</destination>
+		</relationship>
+	</object>
+</objects>
