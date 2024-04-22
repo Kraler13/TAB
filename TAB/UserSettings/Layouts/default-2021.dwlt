@@ -45,6 +45,7 @@ MonoBehaviour:
   m_Enabled: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_EditorHideFlags: 1
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -63,6 +64,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 16
 =======
+=======
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
   m_EditorHideFlags: 0
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: ConsoleWindow
@@ -82,6 +85,9 @@ MonoBehaviour:
   - {fileID: 14}
   m_Selected: 0
   m_LastSelected: 1
+<<<<<<< HEAD
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
+=======
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
 --- !u!114 &3
 MonoBehaviour:
@@ -91,6 +97,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
@@ -111,6 +118,8 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 =======
+=======
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
   m_EditorHideFlags: 0
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -128,6 +137,9 @@ MonoBehaviour:
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
   controlID: 57
+<<<<<<< HEAD
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
+=======
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
 --- !u!114 &4
 MonoBehaviour:
@@ -137,6 +149,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
@@ -195,11 +208,14 @@ MonoBehaviour:
 >>>>>>> parent of 395af5a (czy działa?)
 =======
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
+=======
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
   m_EditorHideFlags: 1
   m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 7}
@@ -210,6 +226,11 @@ MonoBehaviour:
   - {fileID: 5}
   - {fileID: 4}
 >>>>>>> parent of 395af5a (czy działa?)
+=======
+  - {fileID: 5}
+  - {fileID: 6}
+  - {fileID: 7}
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
 =======
   - {fileID: 5}
   - {fileID: 6}
@@ -235,10 +256,14 @@ MonoBehaviour:
   m_BottomViewHeight: 20
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &7
 =======
 --- !u!114 &3
 >>>>>>> parent of 395af5a (czy działa?)
+=======
+--- !u!114 &5
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
 =======
 --- !u!114 &5
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
@@ -269,11 +294,14 @@ MonoBehaviour:
   m_LastLoadedLayoutName: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &8
 =======
 --- !u!114 &4
 >>>>>>> parent of 395af5a (czy działa?)
 =======
+=======
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,6 +330,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 96
 --- !u!114 &7
+<<<<<<< HEAD
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
+=======
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -331,6 +362,7 @@ MonoBehaviour:
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &5
 >>>>>>> parent of 395af5a (czy działa?)
@@ -655,6 +687,8 @@ MonoBehaviour:
   m_LastSelected: 1
 =======
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
+=======
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
 --- !u!114 &8
 >>>>>>> parent of 395af5a (czy działa?)
 MonoBehaviour:
@@ -664,6 +698,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_EditorHideFlags: 1
@@ -748,6 +783,8 @@ MonoBehaviour:
   m_Enabled: 1
 =======
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
+=======
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -814,9 +851,42 @@ MonoBehaviour:
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
+<<<<<<< HEAD
   m_Panes:
   - {fileID: 17}
   - {fileID: 13}
+=======
+  m_Panes:
+  - {fileID: 17}
+  - {fileID: 13}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SceneView
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 906
+    height: 641
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 19}
+  m_Panes:
+  - {fileID: 19}
+  - {fileID: 12}
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &11
@@ -952,8 +1022,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 395af5a (czy działa?)
 =======
+=======
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
   m_EditorHideFlags: 0
   m_Script: {fileID: 12141, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -1286,6 +1359,9 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
+=======
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
   m_EditorHideFlags: 1
   m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
@@ -1548,6 +1624,7 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
@@ -1556,6 +1633,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 4.748088, y: -14.469007, z: 15.249386}
 >>>>>>> parent of 395af5a (czy działa?)
+=======
+    m_Target: {x: 11.253492, y: -16.525677, z: -8.778286}
+    speed: 2
+    m_Value: {x: 11.253492, y: -16.525677, z: -8.778286}
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
 =======
     m_Target: {x: 11.253492, y: -16.525677, z: -8.778286}
     speed: 2
@@ -1609,6 +1691,7 @@ MonoBehaviour:
   m_Rotation:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
@@ -1632,6 +1715,15 @@ MonoBehaviour:
 =======
     m_Value: 38.29684
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
+=======
+    m_Target: {x: -0.31550384, y: -0.4877363, z: 0.19470862, w: -0.7903694}
+    speed: 2
+    m_Value: {x: -0.31549996, y: -0.48773032, z: 0.19470623, w: -0.7903597}
+  m_Size:
+    m_Target: 38.29684
+    speed: 2
+    m_Value: 38.29684
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1650,7 +1742,11 @@ MonoBehaviour:
     m_DynamicClip: 1
     m_OcclusionCulling: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+=======
+  m_LastSceneViewRotation: {x: -0.16286297, y: 0.050887115, z: -0.008406209, w: -0.98531234}
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
 =======
   m_LastSceneViewRotation: {x: -0.16286297, y: 0.050887115, z: -0.008406209, w: -0.98531234}
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
@@ -1660,6 +1756,7 @@ MonoBehaviour:
   m_SceneVisActive: 1
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &16
@@ -2143,5 +2240,7 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
     m_OverlaysVisible: 1
+=======
+>>>>>>> parent of 6fb0cd7 (80% systemu budynków)
 =======
 >>>>>>> parent of 6fb0cd7 (80% systemu budynków)
